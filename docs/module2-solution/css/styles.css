@@ -16,13 +16,8 @@ h1 {
 }
 
 p {
-  position: relative;
-  margin-right: auto;
-  margin-left: auto;
   float: left;
-  left: 0px;
   padding: 10px;
-  width: 100%;
   }
 
 @media (min-width: 992px) {
@@ -142,7 +137,6 @@ div {
 
 
 section {
-  position: relative;
   float: right;
   top: 0px;
   right: 0px;
